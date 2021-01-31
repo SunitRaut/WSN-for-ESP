@@ -1,0 +1,20 @@
+{
+  "name": "WSN_ESP",
+  "version": "1.0.0",
+  "keywords": "esp, node mcu, wireless, esp8266, esp32, wsn, network, node, mote, wireless sensor network",
+  "description": "This is a library for developing Wireless Sensor Network using ESP8266, ESP32 Node MCU.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/SunitRaut/WSN-for-ESP"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266, espressif32",
+  "authors": [
+	{ "name": "Sunit Raut" }, 
+        { 
+            "name": "Sunit Raut",
+            "url": "https://github.com/SunitRaut"
+        }
+  ]
+}
